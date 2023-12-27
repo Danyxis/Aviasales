@@ -1,0 +1,8 @@
+{
+  "RequestsCount": 200,
+  "SimulationCoefficient": 300,
+  "StartDateTime": "2023-12-27T07:50:14.0668227+07:00",
+  "FinishDateTime": "2023-12-28T07:50:14",
+  "Derivation": 15,
+  "RunwaysCount": 10
+}
